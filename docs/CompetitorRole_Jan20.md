@@ -1,3 +1,11 @@
+# Video walkthrough
+
+<br>
+
+{% include youtube.html id="WZUHlsr_Xo4" %}
+
+<br>
+
 # Register
 
 You can register as a partnership, TBA, or both. If you are registering on behalf of a team, please enter entries one at a time.

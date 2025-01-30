@@ -1,3 +1,11 @@
+# Video walkthrough
+
+<br>
+
+{% include youtube.html id="6fGu9C-H2zM" %}
+
+<br>
+
 # Overview
 
 Your main responsibilities are checking in, adding, or scratching couples / TBAs. Before anyone goes on the floor, all couples should be checked in and TBAs should be paired or scratched. All couples dancing (TBA couples included) must have a number. 
